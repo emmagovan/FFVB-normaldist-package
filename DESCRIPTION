@@ -1,0 +1,17 @@
+Package: model1package
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Emma",
+           family = "Govan",
+           role = c("aut", "cre"),
+           email = "emma.govan.2021@mumail.ie",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This package runs a fixed form variational bayes algorithm.
+             We assume the data is normally distributed and get the best fit of
+             the parameters via optimisation.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
